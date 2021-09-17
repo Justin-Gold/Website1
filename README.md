@@ -1,5 +1,5 @@
 # Website1
-This is an example of my first website
+This is an example of my first website.
 To open the website follow these steps
 1. Download the .zip file titled "Website1.zip
 2. Unzip it 
