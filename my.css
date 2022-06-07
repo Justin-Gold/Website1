@@ -1,0 +1,162 @@
+
+/*
+
+    Name    : Justin Gold
+    Class   : CIST 1300 - 002
+    Assign# : Assignment 5
+    Due : 6/23
+
+    Honor Pledge:  On my honor as a student of the University
+    of Nebraska at Omaha, I have neither given nor received
+    unauthorized help on this homework assignment.
+    
+    NAME: Justin Gold
+    EMAIL: jgold@unomaha.edu
+    
+    Partners:  None
+    
+    This is my external style sheet for my webpages
+
+    */  
+
+@charset "UTF-8" ;
+
+	.bold
+	{
+		font-weight: bold;
+	}
+	.italic
+	{
+		font-style: italic;
+	}
+	h1
+	{
+		font-variant: small-caps;
+		color: #00008B;
+		text-align: right;
+	}
+	div
+	{
+		float:center;
+		border:#00008b 2px dashed;
+		border-radius: 15px;
+		background-color:#eeeeee;
+		width: 650px;
+		margin: auto;
+		overflow:auto;
+		
+	}
+	p
+	{
+		font-family: 'arial', sans-serif;
+	}
+	img
+	{
+		padding:15px;
+		float:right;
+	}
+	blockquote
+	{
+		font-family: 'Calibri', sans-serif
+	}
+	#validator
+	{
+		margin:15px;
+		padding:5px;
+		width:650px;
+		text-decoration:none;
+	}
+	a
+	{
+		font-family:'arial', sans-serif;
+		color: #8B0000;
+		text-decoration:none;
+	}
+	a:link
+	{
+		font-weight:bold;
+	}
+	a:hover
+	{
+		background:#8B0000;
+		color:#eee;
+	}
+	table
+	{
+		border;1px solid black;
+	}
+	#daily
+	{
+		width:600px;
+		border-spacing:1px;
+		background-color: #191970;
+	}
+	.course
+	{
+		background-color:#00BFFF;
+	}
+	.work
+	{
+		background-color:#dcdcdc;
+	}
+	.dinner
+	{
+		background-color:#FF8C00;
+	}
+	.doctor
+	{
+		background-color:#32CD32;
+	}
+	tr
+	{
+		text-align:center;
+		background-color:#d3d3d3
+		
+	}
+	td
+	{
+		width:100px;
+	}
+	th 
+	{
+		width:100px;
+	}
+	tr:hover 
+	{
+		background-color:#121312;
+		color:#fff
+	}
+	td:hover 
+	{
+		background-color:red;
+		color:#fff
+	}
+	th:hover 
+	{
+		background-color:red;
+		color:#fff
+	}
+	h2, h3, h4, h5
+	{
+		color:00008b;
+		font-variant: small-caps;
+		text-align: right;
+	}
+	hr
+	{
+		width:75%;
+		color: #00008B;
+	}
+	iframe, video
+	{
+		width:640px;
+		height:480px
+	}
+	audio
+	{
+		float:right;
+	}
+	.left
+	{
+		float:left;
+	}
